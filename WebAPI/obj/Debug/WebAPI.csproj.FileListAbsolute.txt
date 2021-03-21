@@ -1,0 +1,10 @@
+C:\Users\Kıran\source\repos\Try2\WebAPI\bin\Debug\WebAPI.dll
+C:\Users\Kıran\source\repos\Try2\WebAPI\bin\Debug\WebAPI.pdb
+C:\Users\Kıran\source\repos\Try2\WebAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kıran\source\repos\Try2\WebAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kıran\source\repos\Try2\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\Kıran\source\repos\Try2\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Kıran\source\repos\Try2\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\Kıran\source\repos\Try2\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\Kıran\source\repos\Try2\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\Kıran\source\repos\Try2\WebAPI\bin\Debug\WebAPI.dll.config

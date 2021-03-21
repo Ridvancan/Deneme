@@ -1,0 +1,9 @@
+C:\Users\Kıran\source\repos\Try2\LogLib\bin\Debug\LogLib.dll
+C:\Users\Kıran\source\repos\Try2\LogLib\bin\Debug\LogLib.pdb
+C:\Users\Kıran\source\repos\Try2\LogLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kıran\source\repos\Try2\LogLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kıran\source\repos\Try2\LogLib\obj\Debug\LogLib.csprojAssemblyReference.cache
+C:\Users\Kıran\source\repos\Try2\LogLib\obj\Debug\LogLib.csproj.CoreCompileInputs.cache
+C:\Users\Kıran\source\repos\Try2\LogLib\obj\Debug\LogLib.csproj.CopyComplete
+C:\Users\Kıran\source\repos\Try2\LogLib\obj\Debug\LogLib.dll
+C:\Users\Kıran\source\repos\Try2\LogLib\obj\Debug\LogLib.pdb
